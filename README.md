@@ -16,7 +16,7 @@ Grafika dostępna: `./assets/img/rwd.svg`
 
 * Czcionka: `Arial, sans-serif`
 * Kolor nagłówka: `#6c63ff`
-* Kolor tła strony: `#6c63ff`
+* Kolor tła strony: `#f5f5f5`
 * Kolor tła karty: `#ffffff`
 * Kolor akapitów: `#56585d`
 * Maksymalna szerokość kontenera: `1200px`
@@ -29,4 +29,4 @@ Dla urządzeń o szerokości od 825px - 1024px
 * Podstawowa wielkość czcionki: `18px`
 
 Dla urządzeń os szerokości poniżej: `824px`
-* Podstawowa wielkość czcionki: `18px`
+* Podstawowa wielkość czcionki: `16px`
